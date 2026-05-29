@@ -1,0 +1,10 @@
+# 包含敏感信息，不提交
+README.md
+
+# 编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# Claude
+.claude/
